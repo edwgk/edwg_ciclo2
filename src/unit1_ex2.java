@@ -8,6 +8,7 @@ public class unit1_ex2 {
         float temperaturaC=scanner.nextFloat();
         float tempf=conversortemperatura(temperaturaC);
         System.out.println("Temperatura en Fahrenheit= "+tempf);
+        //msj ejemplo
 
 
     }
