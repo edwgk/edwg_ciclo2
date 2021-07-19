@@ -6,6 +6,8 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!!!!");
         System.out.println("I'm Hungry!!!");
+        System.out.println("I'm Hungry!!!");
+        System.out.println("I'm Hungry!!!");
         int variable=8;
         System.out.println(variable);
         boolean variable2=true;
